@@ -93,3 +93,9 @@ The updated DataFrame with cleaned text and sentiment labels is saved to a new C
 
 
 # OUTPUTS :
+
+
+
+[tweets_with_sentiment.csv](https://github.com/user-attachments/files/20565781/tweets_with_sentiment.csv)
+
+![Image](https://github.com/user-attachments/assets/1c243e1e-4a09-4b74-be9e-63d73f7db5f2)

@@ -2,7 +2,7 @@
 
 # 📊 Tweet Sentiment Analysis using TextBlob
 
-## Overview
+## DESCRIPTION :
 
 This project performs sentiment analysis on a collection of tweets using Python and the TextBlob library. It is designed to automatically determine whether the sentiment expressed in each tweet is **positive**, **negative**, or **neutral**. This kind of analysis can help businesses, researchers, and analysts understand public opinion about specific topics, products, services, or trends by analyzing large volumes of text data from social media.
 
@@ -10,7 +10,7 @@ The script loads a CSV file of tweets, cleans and preprocesses the text, perform
 
 ---
 
-## Objectives
+## Objectives :
 
 - Preprocess and clean raw tweet data for accurate analysis.
 - Perform sentiment classification using TextBlob’s polarity score.
@@ -19,7 +19,7 @@ The script loads a CSV file of tweets, cleans and preprocesses the text, perform
 
 ---
 
-## Dataset
+## Dataset :
 
 The dataset used in this project is a CSV file named `tweets.csv`, which contains raw tweet text collected from Twitter. The file is expected to include at least one column:
 - `text`: The content of the tweet.
@@ -28,7 +28,7 @@ You can replace the sample dataset with any other Twitter dataset containing a `
 
 ---
 
-## Dependencies
+## Dependencies :
 
 The following Python libraries are required to run this project:
 
